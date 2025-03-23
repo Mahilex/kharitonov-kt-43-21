@@ -1,0 +1,6 @@
+@kharitonov_kt_43_21_HostAddress = http://localhost:5020
+
+GET {{kharitonov_kt_43_21_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
